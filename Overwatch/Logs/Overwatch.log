@@ -1,0 +1,141 @@
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.488Z]: Streamline - failed to verify signature for sl.interposer.dll
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: GPU 0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: name: NVIDIA GeForce RTX 4070 Ti
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: driverVersion: 32.0.15.6094
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: driverDate: 2024-08-14T00:00:00Z
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: vendorId: NVIDIA
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: deviceId: 0x2782
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: subsystemVendorId: 0x1462
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: subsystemId: 0x5130
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: revisionId: 0xa1
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: location: 1
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: type: Discrete
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: virtualizationMode: None
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: luid: 0x000000000000e922
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: index: 0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: systemId: 0x00000000b8ae85a8
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: Hybrid Graphics: 0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: memory: 11996 MiB
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: sharedMemory: 11996 MiB
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.542Z]: prism: Info: Max queues: 1 graphics, 1 compute, 1 copy
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: Display 0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: name: ZOWIE XL LCD
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: pos: 0,0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: size: 1920x1080
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: refreshRate: 239760/1000
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: manufacturerId: 0xd109
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: productId: 0x7f83
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: systemId: 0x00000000c9eefbd0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: nativeIndex: 1
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: nativeSize: 1920x1080
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: nativeRefreshRate: 60/1
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: supports4k: 0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: supportsHdr: 0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: supports120Hz: 0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: isPrimary: 1
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: hdrEnabled: 0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: isInternal: 0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: freesync: 0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: mode count: 140
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: Display 1
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: name: GD251UH
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: pos: -1920,-614
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: size: 1920x1080
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: refreshRate: 239999/1000
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: manufacturerId: 0xe425
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: productId: 0x44c1
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: systemId: 0x00000000e1806d43
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: nativeIndex: 2
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: nativeSize: 1920x1080
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: nativeRefreshRate: 60/1
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: supports4k: 0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: supportsHdr: 1
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: supports120Hz: 0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: isPrimary: 0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: hdrEnabled: 0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: isInternal: 0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: freesync: 0
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: mode count: 327
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: prism: Info: --------------------------------------------
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: Enumerated 1 adapters.
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: Selected GPU: NVIDIA GeForce RTX 4070 Ti
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: Selected Display: ZOWIE XL LCD
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: Selected Graphics API: Dx11
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:04.950Z]: Selected VidDeviceType: Dx11
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:07.063Z]: Render Thread startup time: 1.803206 secs
+[4928] [ALW] [Engine] [External(0)] [External()] [2026-04-07T05:56:07.869Z]: Active Super Resolution Name = DLSS3
+
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:19.780Z]: ==[VC] Client begin Base initialize
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:19.780Z]: ==[VC] Client Base initialized
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:19.780Z]: ==[VC] Client begin initialize
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:19.780Z]: ==[VC] Client initialized
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:19.780Z]: ==[VC] DetermineVoiceChatAudioDevices
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:19.780Z]: ==[VC] Devices started
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:19.780Z]: ==[VC] Client started
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:19.883Z]: ==[VC] SetTargetOutputDevice Realtek HD Audio 2nd output (Realtek(R) Audio)
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:19.883Z]: ==[VC] SetTargetInputDevice マイク (HyperX QuadCast)
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.076Z]: #=[VC] ResponseGetOutputDevices 01 0(0:811c9dc5) (Default System Device|Default System Device) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio)) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio)) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.076Z]: ==[VC] Output devices added [(Default Communication Device|Default Communication Device),(Default System Device|Default System Device),(No Device|No Device),({0.0.0.00000000}.{1fd05694-8c0d-4122-9df9-5e29a455c92a}|スピーカー (DualSense Wireless Controller)),({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio)),({0.0.0.00000000}.{b266ae4f-bcb4-41f9-8451-510ef9ef2cbf}|スピーカー (HyperX QuadCast)),({0.0.0.00000000}.{bc1c348d-26b1-4d42-8ee2-dbd76264332f}|Realtek Digital Output (Realtek(R) Audio)),({0.0.0.00000000}.{c243306a-728a-4a3d-829d-a4c709dbb530}|GD251UH (NVIDIA High Definition Audio))]
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.076Z]: ==[VC] New active output device (Default System Device|Default System Device)
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.092Z]: ==[VC] SetTargetOutputDevice Realtek HD Audio 2nd output (Realtek(R) Audio)
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.092Z]: ==[VC] SetTargetInputDevice マイク (HyperX QuadCast)
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.157Z]: #=[VC] ResponseGetInputDevices 01 0(0:811c9dc5) (Default System Device|Default System Device) ({0.0.1.00000000}.{212b0079-2a95-4cbf-8cdd-48337d3ea260}|マイク (HyperX QuadCast)) ({0.0.1.00000000}.{212b0079-2a95-4cbf-8cdd-48337d3ea260}|マイク (HyperX QuadCast)) ({0.0.1.00000000}.{5ac685d2-4d2b-4f3d-bbf8-18ec51296e67}|ヘッドセット マイク (DualSense Wireless Controller))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.157Z]: ==[VC] Input devices added [(Default Communication Device|Default Communication Device),(Default System Device|Default System Device),(No Device|No Device),({0.0.1.00000000}.{212b0079-2a95-4cbf-8cdd-48337d3ea260}|マイク (HyperX QuadCast)),({0.0.1.00000000}.{5ac685d2-4d2b-4f3d-bbf8-18ec51296e67}|ヘッドセット マイク (DualSense Wireless Controller))]
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.157Z]: ==[VC] New active input device (Default System Device|Default System Device)
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.170Z]: ==[VC] SetTargetOutputDevice Realtek HD Audio 2nd output (Realtek(R) Audio)
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.170Z]: ==[VC] SetTargetInputDevice マイク (HyperX QuadCast)
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.278Z]: #=[VC] ResponseGetOutputDevices 01 0(0:811c9dc5) (Default System Device|Default System Device) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio)) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio)) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.305Z]: #=[VC] ResponseGetInputDevices 01 0(0:811c9dc5) (Default System Device|Default System Device) ({0.0.1.00000000}.{212b0079-2a95-4cbf-8cdd-48337d3ea260}|マイク (HyperX QuadCast)) ({0.0.1.00000000}.{212b0079-2a95-4cbf-8cdd-48337d3ea260}|マイク (HyperX QuadCast)) ({0.0.1.00000000}.{5ac685d2-4d2b-4f3d-bbf8-18ec51296e67}|ヘッドセット マイク (DualSense Wireless Controller))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.334Z]: ==[VC] RequestSetActiveOutputDevice ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.334Z]: ==[VC] RequestSetActiveInputDevice ({0.0.1.00000000}.{212b0079-2a95-4cbf-8cdd-48337d3ea260}|マイク (HyperX QuadCast))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.371Z]: #=[VC] ResponseSetActiveOutputDevice 02 0(0:811c9dc5) 
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.371Z]: ==[VC] New active output device ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.371Z]: #=[VC] ResponseSetActiveInputDevice 02 0(0:811c9dc5) 
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T05:56:20.371Z]: ==[VC] New active input device ({0.0.1.00000000}.{212b0079-2a95-4cbf-8cdd-48337d3ea260}|マイク (HyperX QuadCast))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:17:56.968Z]: ==[VC] DetermineVoiceChatAudioDevices
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:17:56.968Z]: ==[VC] DetermineVoiceChatAudioDevices
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:18:30.262Z]: ==[VC] DetermineVoiceChatAudioDevices
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:18:30.262Z]: ==[VC] DetermineVoiceChatAudioDevices
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:44.894Z]: #=[VC] VoiceClient::OnDeviceNotification : ヘッドセット マイク (DualSense Wireless Controller) 5
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:44.894Z]: ==[VC] DetermineVoiceChatAudioDevices
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:44.894Z]: ==[VC] SetTargetInputDevice ヘッドセット マイク (DualSense Wireless Controller)
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:44.944Z]: #=[VC] ResponseGetOutputDevices 04 0(0:811c9dc5) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio)) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio)) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio)) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:44.944Z]: ==[VC] Output devices removed [({0.0.0.00000000}.{b266ae4f-bcb4-41f9-8451-510ef9ef2cbf}|スピーカー (HyperX QuadCast))]
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:44.977Z]: #=[VC] ResponseGetInputDevices 04 0(0:811c9dc5) ({0.0.1.00000000}.{212b0079-2a95-4cbf-8cdd-48337d3ea260}|マイク (HyperX QuadCast)) (No Device|No Device) ({0.0.1.00000000}.{5ac685d2-4d2b-4f3d-bbf8-18ec51296e67}|ヘッドセット マイク (DualSense Wireless Controller)) ({0.0.1.00000000}.{5ac685d2-4d2b-4f3d-bbf8-18ec51296e67}|ヘッドセット マイク (DualSense Wireless Controller))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:44.977Z]: ==[VC] Input devices removed [({0.0.1.00000000}.{212b0079-2a95-4cbf-8cdd-48337d3ea260}|マイク (HyperX QuadCast))]
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:45.051Z]: ==[VC] RequestSetActiveInputDevice ({0.0.1.00000000}.{5ac685d2-4d2b-4f3d-bbf8-18ec51296e67}|ヘッドセット マイク (DualSense Wireless Controller))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:45.085Z]: #=[VC] ResponseSetActiveInputDevice 03 0(0:811c9dc5) 
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:45.085Z]: ==[VC] New active input device ({0.0.1.00000000}.{5ac685d2-4d2b-4f3d-bbf8-18ec51296e67}|ヘッドセット マイク (DualSense Wireless Controller))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:45.151Z]: #=[VC] DeviceHotSwap AUDIO_DEVICE_REMOVED (NULL_DEVICE | NULL_DEVICE)
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:45.201Z]: #=[VC] ResponseGetOutputDevices 05 0(0:811c9dc5) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio)) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio)) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio)) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:45.218Z]: #=[VC] ResponseGetInputDevices 05 0(0:811c9dc5) ({0.0.1.00000000}.{5ac685d2-4d2b-4f3d-bbf8-18ec51296e67}|ヘッドセット マイク (DualSense Wireless Controller)) ({0.0.1.00000000}.{5ac685d2-4d2b-4f3d-bbf8-18ec51296e67}|ヘッドセット マイク (DualSense Wireless Controller)) ({0.0.1.00000000}.{5ac685d2-4d2b-4f3d-bbf8-18ec51296e67}|ヘッドセット マイク (DualSense Wireless Controller)) ({0.0.1.00000000}.{5ac685d2-4d2b-4f3d-bbf8-18ec51296e67}|ヘッドセット マイク (DualSense Wireless Controller))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:56.330Z]: #=[VC] VoiceClient::OnDeviceNotification : マイク (HyperX QuadCast) 5
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:56.330Z]: ==[VC] DetermineVoiceChatAudioDevices
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:56.330Z]: ==[VC] SetTargetInputDevice マイク (HyperX QuadCast)
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:56.394Z]: #=[VC] ResponseGetOutputDevices 07 0(0:811c9dc5) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio)) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio)) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio)) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:56.394Z]: ==[VC] Output devices added [({0.0.0.00000000}.{b266ae4f-bcb4-41f9-8451-510ef9ef2cbf}|スピーカー (HyperX QuadCast))]
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:56.411Z]: ==[VC] SetTargetInputDevice マイク (HyperX QuadCast)
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:56.431Z]: #=[VC] ResponseGetInputDevices 07 0(0:811c9dc5) ({0.0.1.00000000}.{5ac685d2-4d2b-4f3d-bbf8-18ec51296e67}|ヘッドセット マイク (DualSense Wireless Controller)) ({0.0.1.00000000}.{5ac685d2-4d2b-4f3d-bbf8-18ec51296e67}|ヘッドセット マイク (DualSense Wireless Controller)) ({0.0.1.00000000}.{212b0079-2a95-4cbf-8cdd-48337d3ea260}|マイク (HyperX QuadCast)) ({0.0.1.00000000}.{5ac685d2-4d2b-4f3d-bbf8-18ec51296e67}|ヘッドセット マイク (DualSense Wireless Controller))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:56.431Z]: ==[VC] Input devices added [({0.0.1.00000000}.{212b0079-2a95-4cbf-8cdd-48337d3ea260}|マイク (HyperX QuadCast))]
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:56.451Z]: ==[VC] SetTargetInputDevice マイク (HyperX QuadCast)
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:56.494Z]: ==[VC] RequestSetActiveInputDevice ({0.0.1.00000000}.{212b0079-2a95-4cbf-8cdd-48337d3ea260}|マイク (HyperX QuadCast))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:56.515Z]: #=[VC] ResponseSetActiveInputDevice 06 0(0:811c9dc5) 
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:56.515Z]: ==[VC] New active input device ({0.0.1.00000000}.{212b0079-2a95-4cbf-8cdd-48337d3ea260}|マイク (HyperX QuadCast))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:56.611Z]: #=[VC] DeviceHotSwap AUDIO_DEVICE_ADDED (NULL_DEVICE | NULL_DEVICE)
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:56.661Z]: #=[VC] ResponseGetOutputDevices 08 0(0:811c9dc5) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio)) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio)) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio)) ({0.0.0.00000000}.{796e2c7a-07fa-464e-a9b2-874430ec3949}|Realtek HD Audio 2nd output (Realtek(R) Audio))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:21:56.679Z]: #=[VC] ResponseGetInputDevices 08 0(0:811c9dc5) ({0.0.1.00000000}.{212b0079-2a95-4cbf-8cdd-48337d3ea260}|マイク (HyperX QuadCast)) ({0.0.1.00000000}.{212b0079-2a95-4cbf-8cdd-48337d3ea260}|マイク (HyperX QuadCast)) ({0.0.1.00000000}.{212b0079-2a95-4cbf-8cdd-48337d3ea260}|マイク (HyperX QuadCast)) ({0.0.1.00000000}.{5ac685d2-4d2b-4f3d-bbf8-18ec51296e67}|ヘッドセット マイク (DualSense Wireless Controller))
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:22:25.792Z]: ==[VC] DetermineVoiceChatAudioDevices
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:22:35.846Z]: ==[VC] DetermineVoiceChatAudioDevices
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:22:53.416Z]: ==[VC] DetermineVoiceChatAudioDevices
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:22:53.416Z]: ==[VC] DetermineVoiceChatAudioDevices
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:25:17.802Z]: ==[VC] DetermineVoiceChatAudioDevices
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:25:17.802Z]: ==[VC] DetermineVoiceChatAudioDevices
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:27:29.433Z]: ==[VC] DetermineVoiceChatAudioDevices
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:27:29.433Z]: ==[VC] DetermineVoiceChatAudioDevices
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:58:35.897Z]: ==[VC] DetermineVoiceChatAudioDevices
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T06:58:39.341Z]: ==[VC] DetermineVoiceChatAudioDevices
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T10:15:05.640Z]: ==[VC] AboutToShutdown
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T10:15:05.640Z]: ==[VC] Request stop
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T10:15:05.640Z]: ==[VC] Cancel all queued trackers 0
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T10:15:05.647Z]: ==[VC] Stop complete
+[4928] [NRM] [VoiceChat] [External(0)] [External()] [2026-04-07T10:15:17.356Z]: ==[VC] Shutdown
